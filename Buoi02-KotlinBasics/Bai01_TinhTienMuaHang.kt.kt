@@ -1,15 +1,12 @@
 // Ho ten: Le Phuc Khanh
 // MSSV: 25810061
 fun main() {
-    val soLuong: Int = 5
-    val donGia: Double = 15000.0
+    val soLuong = 5
+    val donGia = 15000.0
 
-
-    val tienHang: Double = soLuong.toDouble() * donGia
-
-    val phanTramThue = 0.08
-    val thue: Double = tienHang * phanTramThue
-    val tongTien: Double = tienHang + thue
+    val tienHang = soLuong.toDouble() * donGia
+    val thue = tienHang * 0.08
+    val tongTien = tienHang + thue
 
     println("Số lượng sản phẩm: $soLuong")
     println("Đơn giá: $donGia VNĐ")
