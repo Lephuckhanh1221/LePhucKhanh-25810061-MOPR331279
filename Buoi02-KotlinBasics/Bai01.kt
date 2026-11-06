@@ -1,3 +1,5 @@
+// Ho ten: Le Phuc Khanh
+// MSSV: 25810061
 fun main() {
     val soLuong: Int = 5
     val donGia: Double = 15000.0
