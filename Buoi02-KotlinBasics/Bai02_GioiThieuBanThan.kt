@@ -1,5 +1,4 @@
-// Ho ten: Le Phuc Khanh
-// MSSV: 25810061
+// Họ tên:Lê Phúc Khánh - MSSV: 25810061
 fun main() {
     val hoTen = "lê phúc khánh"
     val namSinh = 2003
